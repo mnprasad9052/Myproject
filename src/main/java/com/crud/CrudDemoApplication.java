@@ -10,6 +10,7 @@ public class CrudDemoApplication {
 		SpringApplication.run(CrudDemoApplication.class, args);
 		
 		System.out.println("HI HEllo");
+		System.out.println("prasad");
 	}
 
 }
